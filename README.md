@@ -27,7 +27,8 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. The a
 4. Enter a city name in the search bar to check the weather for any location.
 
 ## Screenshots 📸
-images/screenshot.png
+![Weather App Screenshot](images/screenshot.png)
+
 
 ## API Used 🌍
 - Weather API used: **OpenWeatherMap**
